@@ -16,5 +16,5 @@ def run_guessing_game()
     end
   end
 
-  puts "exit"
+  puts "Goodbye"
 end
